@@ -1,0 +1,191 @@
+ /*********************************************************************************************/
+ ./task2 input_q2a.txt 4 1000
+CPU ID : 0
+Number of lock requests : 22 
+Number of Tasks done: 22 
+Average waiting time for lock : 0 us
+Max waiting time of a task : 426 us
+Min waiting time of a task : 27 us
+Average waiting time of a task : 181 us
+
+CPU ID : 1
+Number of lock requests : 24 
+Number of Tasks done: 24 
+Average waiting time for lock : 7 us
+Max waiting time of a task : 568 us
+Min waiting time of a task : 16 us
+Average waiting time of a task : 222 us
+
+CPU ID : 2
+Number of lock requests : 18 
+Number of Tasks done: 18 
+Average waiting time for lock : 1 us
+Max waiting time of a task : 415 us
+Min waiting time of a task : 14 us
+Average waiting time of a task : 189 us
+
+CPU ID : 3
+Number of lock requests : 16 
+Number of Tasks done: 16 
+Average waiting time for lock : 0 us
+Max waiting time of a task : 420 us
+Min waiting time of a task : 41 us
+Average waiting time of a task : 217 us
+
+Number of drops done: 0
+Average size of ready queue : 3
+Total execution time for all the requests : 3438 us
+Average waiting time for all threads 2.000000
+
+/*********************************************************************************************/
+ ./task2 input_q2b.txt 4 1000
+CPU ID : 0
+Number of lock requests : 20 
+Number of Tasks done: 20 
+Average waiting time for lock : 0 us
+Max waiting time of a task : 1999900012 us
+Min waiting time of a task : 32 us
+Average waiting time of a task : 1099849957 us
+
+CPU ID : 1
+Number of lock requests : 20 
+Number of Tasks done: 20 
+Average waiting time for lock : 0 us
+Max waiting time of a task : 1999900013 us
+Min waiting time of a task : 22 us
+Average waiting time of a task : 1099849956 us
+
+CPU ID : 2
+Number of lock requests : 20 
+Number of Tasks done: 20 
+Average waiting time for lock : 0 us
+Max waiting time of a task : 1999899996 us
+Min waiting time of a task : 113 us
+Average waiting time of a task : 1099849994 us
+
+CPU ID : 3
+Number of lock requests : 20 
+Number of Tasks done: 20 
+Average waiting time for lock : 0 us
+Max waiting time of a task : 1999899889 us
+Min waiting time of a task : 167 us
+Average waiting time of a task : 1099850032 us
+
+Number of drops done: 0
+Average size of ready queue : 39
+Total execution time for all the requests : 2000002055 us
+Average waiting time for all threads 0.000000
+
+/*********************************************************************************************/
+./task2 input_q2c.txt 1 1000
+CPU ID : 0
+Number of lock requests : 2 
+Number of Tasks done: 2 
+Average waiting time for lock : 0 us
+Max waiting time of a task : 157 us
+Min waiting time of a task : 4 us
+Average waiting time of a task : 80 us
+
+Number of drops done: 0
+Average size of ready queue : 0
+Total execution time for all the requests : 1146 us
+Average waiting time for all threads 0.000000
+
+/*********************************************************************************************/
+./task2.o input_q2d.txt 4 1000
+CPU ID : 0
+Number of lock requests : 1 
+Number of Tasks done: 1 
+Average waiting time for lock : 0 us
+Max waiting time of a task : 12 us
+Min waiting time of a task : 12 us
+Average waiting time of a task : 12 us
+
+CPU ID : 1
+Number of lock requests : 19 
+Number of Tasks done: 18 
+Average waiting time for lock : 0 us
+Max waiting time of a task : 288 us
+Min waiting time of a task : 8 us
+Average waiting time of a task : 2500 us
+
+CPU ID : 2
+Number of lock requests : 18 
+Number of Tasks done: 17 
+Average waiting time for lock : 0 us
+Max waiting time of a task : 299 us
+Min waiting time of a task : 7 us
+Average waiting time of a task : 1970 us
+
+CPU ID : 3
+Number of lock requests : 22 
+Number of Tasks done: 21 
+Average waiting time for lock : 0 us
+Max waiting time of a task : 223 us
+Min waiting time of a task : 8 us
+Average waiting time of a task : 2294 us
+
+Number of drops done: 0
+Average size of ready queue : 3
+Total execution time for all the requests : 100775 us
+Average waiting time for all threads 0.000000
+
+
+
+/*********************************************************************************************/
+./task2 input_q2d.txt 4 1000
+CPU ID : 0
+Number of lock requests : 1 
+Number of Tasks done: 1 
+Average waiting time for lock : 0 us
+Max waiting time of a task : 12 us
+Min waiting time of a task : 12 us
+Average waiting time of a task : 12 us
+
+CPU ID : 1
+Number of lock requests : 19 
+Number of Tasks done: 18 
+Average waiting time for lock : 0 us
+Max waiting time of a task : 288 us
+Min waiting time of a task : 8 us
+Average waiting time of a task : 2500 us
+
+CPU ID : 2
+Number of lock requests : 18 
+Number of Tasks done: 17 
+Average waiting time for lock : 0 us
+Max waiting time of a task : 299 us
+Min waiting time of a task : 7 us
+Average waiting time of a task : 1970 us
+.
+.
+..
+..
+CPU ID : 97
+Number of lock requests : 79 
+Number of Tasks done: 79 
+Average waiting time for lock : 3 us
+Max waiting time of a task : 4891 us
+Min waiting time of a task : 1377 us
+Average waiting time of a task : 2399 us
+
+CPU ID : 98
+Number of lock requests : 81 
+Number of Tasks done: 81 
+Average waiting time for lock : 1 us
+Max waiting time of a task : 4879 us
+Min waiting time of a task : 1380 us
+Average waiting time of a task : 2409 us
+
+CPU ID : 99
+Number of lock requests : 39 
+Number of Tasks done: 39 
+Average waiting time for lock : 3 us
+Max waiting time of a task : 2382 us
+Min waiting time of a task : 1319 us
+Average waiting time of a task : 1746 us
+
+Number of drops done: 2357
+Average size of ready queue : 855
+Total execution time for all the requests : 23917 us
+Average waiting time for all threads 26.300000
